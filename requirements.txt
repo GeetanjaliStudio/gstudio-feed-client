@@ -3,5 +3,5 @@ HackerNews==2.0.0
 haxor==0.6
 pymongo==3.5.1
 python-dateutil==1.5
-requests==2.18.4
+requests==2.20.0
 diffbot==2.0.0
